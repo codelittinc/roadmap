@@ -15,4 +15,4 @@ https://github.com/codelittinc/slack-notifications
 https://github.com/codelittinc/status
 
 ### Engineering docs
-https://www.notion.so/codelitt/Sales-Marketing-9a3f7077592349cf929ae7a66451d6da
+https://www.notion.so/codelitt/Engineering-Department-dcef43b168d4483fa2234bcdf29c3db6
